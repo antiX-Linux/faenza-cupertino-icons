@@ -1,3 +1,11 @@
+faenza-cupertino-icons (0.1.1) unstable; urgency=low 
+ 
+  * Change dependency to faenza-icon-theme
+  * Set index to faenza-Darkest
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 25 Oct 2015 14:14:00 +0200
+
+
 faenza-cupertino-icons (0.1.0) unstable; urgency=low 
  
   * Initial Release.

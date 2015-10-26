@@ -7,6 +7,6 @@ Standards-Version: 3.9.4
 Homepage: http://antix.mepis.org
 
 Package: faenza-cupertino-icons
-Depends: faenza-icons 
+Depends: faenza-icon-theme 
 Architecture: all  
 Description: icon set for use in MX.
